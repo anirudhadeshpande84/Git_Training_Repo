@@ -5,9 +5,9 @@ My GitHub Training !! yoooo
 <H1> ---***!!! Welcome Anirudha Deshpande Hi !!!***--- </H1>
 </HEAD>
 	<BODY>
-		Login : YEEAAAAAAA
-		login:
-		Password:
+		<h3>Login</h3>
+		username:<input type = "text"/>
+		Password:<input type = "text"/>
 		submit: <input type = "submit"></input>
 	</BODY>
 </HTML>
