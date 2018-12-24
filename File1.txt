@@ -6,6 +6,9 @@ My GitHub Training !! yoooo
 </HEAD>
 	<BODY>
 		Login : YEEAAAAAAA
+		login:
+		Password:
+		submit: <input type = "submit"></input>
 	</BODY>
 </HTML>
 
